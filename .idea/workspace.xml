@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77c348ab-1be9-4a22-8aae-3a305515d693" name="Default Changelist" comment="*help">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Peer_P1W3/Deel1&amp;2/W3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Peer_P1W3/Deel1&amp;2/src/Main.java" afterDir="false" />
+    <list default="true" id="77c348ab-1be9-4a22-8aae-3a305515d693" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Peer_P1W3/Deel1&amp;2/Galgje1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4_1/src/Galgje1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4_1/src/Galgje2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4_1/src/Galgje3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Peer_P1W2/Deel1/Deel1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Peer_P1W2/Deel1/W2_1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Peer_P1W2/Deel2/Deel2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Peer_P1W2/Deel2/W2_2.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,10 +32,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Peer_P1W4" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jeroe\OneDrive - Karel de Grote Hogeschool\School\KdG\2019-2020\Peer Tutoring\PeerTutoring\Peer_P1W4" />
+      <recent name="C:\Users\jeroe\OneDrive - Karel de Grote Hogeschool\School\KdG\2019-2020\Peer Tutoring\PeerTutoring\Peer_P1W3\Deel1&amp;2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jeroe\OneDrive - Karel de Grote Hogeschool\School\KdG\2019-2020\Peer Tutoring\PeerTutoring\Peer_P1W4" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -50,7 +58,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Galgje3">
+    <configuration name="Galgje1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Galgje1" />
+      <module name="W4_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Galgje2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Galgje2" />
+      <module name="W4_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Galgje3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Galgje3" />
+      <module name="W4_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="W3" />
@@ -58,55 +87,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="W2_1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="W2_1" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Galgje3" />
+        <item itemvalue="Application.Galgje2" />
+        <item itemvalue="Application.Galgje1" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -122,7 +107,10 @@
       <option name="presentableId" value="Default" />
       <updated>1569503569563</updated>
       <workItem from="1569503570716" duration="761000" />
-      <workItem from="1570015464070" duration="4501000" />
+      <workItem from="1570015464070" duration="4700000" />
+      <workItem from="1570195770793" duration="1761000" />
+      <workItem from="1570282627074" duration="10000" />
+      <workItem from="1570739593904" duration="3251000" />
     </task>
     <task id="LOCAL-00001" summary="*help">
       <created>1569504099302</created>
@@ -131,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569504099302</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="peer oef w3 + renamed modules">
+      <created>1570020145570</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570020145570</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +147,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="*help" />
-    <option name="LAST_COMMIT_MESSAGE" value="*help" />
+    <MESSAGE value="peer oef w3 + renamed modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="peer oef w3 + renamed modules" />
   </component>
 </project>
