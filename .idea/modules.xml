@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Peer_P1W5/Peer_P1W5.iml" filepath="$PROJECT_DIR$/Peer_P1W5/Peer_P1W5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Peer_P1W2/Deel1/W2_1.iml" filepath="$PROJECT_DIR$/Peer_P1W2/Deel1/W2_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Peer_P1W2/Deel2/W2_2.iml" filepath="$PROJECT_DIR$/Peer_P1W2/Deel2/W2_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Peer_P1W3/Deel1&amp;2/Galgje1.iml" filepath="$PROJECT_DIR$/Peer_P1W3/Deel1&amp;2/Galgje1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/W4/W4.iml" filepath="$PROJECT_DIR$/W4/W4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Peer_P1W4/W4.iml" filepath="$PROJECT_DIR$/Peer_P1W4/W4.iml" />
     </modules>
   </component>
 </project>

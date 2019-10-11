@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="77c348ab-1be9-4a22-8aae-3a305515d693" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W4_1/src/Galgje1.java" beforeDir="false" afterPath="$PROJECT_DIR$/W4/src/Galgje1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W4_1/src/Galgje2.java" beforeDir="false" afterPath="$PROJECT_DIR$/W4/src/Galgje2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W4_1/src/Galgje3.java" beforeDir="false" afterPath="$PROJECT_DIR$/W4/src/Galgje3.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +107,7 @@
       <workItem from="1570282627074" duration="10000" />
       <workItem from="1570739593904" duration="3378000" />
       <workItem from="1570782956073" duration="39000" />
-      <workItem from="1570791161524" duration="359000" />
+      <workItem from="1570791161524" duration="1090000" />
     </task>
     <task id="LOCAL-00001" summary="*help">
       <created>1569504099302</created>
@@ -133,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570742965850</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="refactoring">
+      <created>1570791530281</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570791530281</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +160,7 @@
     <MESSAGE value="*help" />
     <MESSAGE value="peer oef w3 + renamed modules" />
     <MESSAGE value="peer oef w4" />
-    <option name="LAST_COMMIT_MESSAGE" value="peer oef w4" />
+    <MESSAGE value="refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring" />
   </component>
 </project>
