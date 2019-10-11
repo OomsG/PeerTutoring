@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77c348ab-1be9-4a22-8aae-3a305515d693" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Peer_P1W3/Deel1&amp;2/Galgje1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W4_1/src/Galgje1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W4_1/src/Galgje2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W4_1/src/Galgje3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W4_1/src/Galgje1.java" beforeDir="false" afterPath="$PROJECT_DIR$/W4/src/Galgje1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W4_1/src/Galgje2.java" beforeDir="false" afterPath="$PROJECT_DIR$/W4/src/Galgje2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W4_1/src/Galgje3.java" beforeDir="false" afterPath="$PROJECT_DIR$/W4/src/Galgje3.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,21 +59,21 @@
   <component name="RunManager" selected="Application.Galgje3">
     <configuration name="Galgje1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Galgje1" />
-      <module name="W4_1" />
+      <module name="W4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Galgje2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Galgje2" />
-      <module name="W4_1" />
+      <module name="W4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Galgje3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Galgje3" />
-      <module name="W4_1" />
+      <module name="W4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,7 +108,9 @@
       <workItem from="1570015464070" duration="4700000" />
       <workItem from="1570195770793" duration="1761000" />
       <workItem from="1570282627074" duration="10000" />
-      <workItem from="1570739593904" duration="3251000" />
+      <workItem from="1570739593904" duration="3378000" />
+      <workItem from="1570782956073" duration="39000" />
+      <workItem from="1570791161524" duration="359000" />
     </task>
     <task id="LOCAL-00001" summary="*help">
       <created>1569504099302</created>
@@ -126,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570020145570</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="peer oef w4">
+      <created>1570742965850</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570742965850</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +155,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="*help" />
     <MESSAGE value="peer oef w3 + renamed modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="peer oef w3 + renamed modules" />
+    <MESSAGE value="peer oef w4" />
+    <option name="LAST_COMMIT_MESSAGE" value="peer oef w4" />
   </component>
 </project>
