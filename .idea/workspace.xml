@@ -2,16 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77c348ab-1be9-4a22-8aae-3a305515d693" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/W4_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/W4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W5/W5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W5/src/GolfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W5/src/golven/Golf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W5/src/golven/GolvenGrafiek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W5/src/golven/GrafiekWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W4_1/src/Galgje1.java" beforeDir="false" afterPath="$PROJECT_DIR$/W4/src/Galgje1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W4_1/src/Galgje2.java" beforeDir="false" afterPath="$PROJECT_DIR$/W4/src/Galgje2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W4_1/src/Galgje3.java" beforeDir="false" afterPath="$PROJECT_DIR$/W4/src/Galgje3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W4/src/Galgje3.java" beforeDir="false" afterPath="$PROJECT_DIR$/W4/src/Galgje3.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/W4_1">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="W4_1" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="W4_1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="W4_1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,10 +69,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Peer_P1W4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/W4" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -56,7 +101,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Galgje3">
+  <component name="RunManager" selected="Application.GolfTest">
     <configuration name="Galgje1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Galgje1" />
       <module name="W4" />
@@ -78,19 +123,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="W3" />
+    <configuration name="GolfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GolfTest" />
+      <module name="W5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Galgje1" />
+      <item itemvalue="Application.Galgje2" />
+      <item itemvalue="Application.Galgje3" />
+      <item itemvalue="Application.GolfTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Galgje3" />
+        <item itemvalue="Application.GolfTest" />
         <item itemvalue="Application.Galgje2" />
         <item itemvalue="Application.Galgje1" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Galgje3" />
       </list>
     </recent_temporary>
   </component>
@@ -111,6 +162,7 @@
       <workItem from="1570739593904" duration="3378000" />
       <workItem from="1570782956073" duration="39000" />
       <workItem from="1570791161524" duration="359000" />
+      <workItem from="1571315420248" duration="4978000" />
     </task>
     <task id="LOCAL-00001" summary="*help">
       <created>1569504099302</created>

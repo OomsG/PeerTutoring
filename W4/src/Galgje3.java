@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Galgje3 {
     public static void main(String[] args) {
         final String HANGMAN =
-                        "----- \n" +
+                "----- \n" +
                         "|   | \n" +
                         "|   O \n" +
                         "|  /|\\\n" +
@@ -40,9 +40,7 @@ public class Galgje3 {
                     builder.setCharAt(i, guess);
                 }
             }
-
             counter++;
-
             System.out.println(HANGMAN.substring(0, 7 * counter));
         }
 
