@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77c348ab-1be9-4a22-8aae-3a305515d693" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/W4_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W4/W4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W5/W5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W5/src/GolfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W5/src/golven/Golf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W5/src/golven/GolvenGrafiek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W5/src/golven/GrafiekWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W6/W6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W6/src/ChatBot1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W6/src/ChatBot2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W6/src/ChatBot3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W6/src/ChatBot4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W6/src/DemoChatBot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W4/src/Galgje3.java" beforeDir="false" afterPath="$PROJECT_DIR$/W4/src/Galgje3.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +65,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/W4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Peer_P1W4" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -101,7 +97,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GolfTest">
+  <component name="RunManager" selected="Application.DemoChatBot">
+    <configuration name="DemoChatBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoChatBot" />
+      <module name="W6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Galgje1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Galgje1" />
       <module name="W4" />
@@ -135,9 +138,11 @@
       <item itemvalue="Application.Galgje2" />
       <item itemvalue="Application.Galgje3" />
       <item itemvalue="Application.GolfTest" />
+      <item itemvalue="Application.DemoChatBot" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoChatBot" />
         <item itemvalue="Application.GolfTest" />
         <item itemvalue="Application.Galgje2" />
         <item itemvalue="Application.Galgje1" />
@@ -163,6 +168,8 @@
       <workItem from="1570782956073" duration="39000" />
       <workItem from="1570791161524" duration="359000" />
       <workItem from="1571315420248" duration="4978000" />
+      <workItem from="1571686859737" duration="110000" />
+      <workItem from="1571931657397" duration="8320000" />
     </task>
     <task id="LOCAL-00001" summary="*help">
       <created>1569504099302</created>
