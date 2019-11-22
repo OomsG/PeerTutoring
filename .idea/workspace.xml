@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77c348ab-1be9-4a22-8aae-3a305515d693" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/W6/W6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W6/src/ChatBot1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W6/src/ChatBot2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W6/src/ChatBot3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W6/src/ChatBot4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W6/src/DemoChatBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W8/W8.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W5/src/GolfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/W5/src/GolfTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W5/src/golven/GolvenGrafiek.java" beforeDir="false" afterPath="$PROJECT_DIR$/W5/src/golven/GolvenGrafiek.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +70,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -97,10 +96,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoChatBot">
+  <component name="RunManager" selected="Application.DemoWijnen">
     <configuration name="DemoChatBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DemoChatBot" />
       <module name="W6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoWijnen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoWijnen" />
+      <module name="W8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,13 +125,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Galgje3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Galgje3" />
-      <module name="W4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="GolfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GolfTest" />
       <module name="W5" />
@@ -136,17 +135,17 @@
     <list>
       <item itemvalue="Application.Galgje1" />
       <item itemvalue="Application.Galgje2" />
-      <item itemvalue="Application.Galgje3" />
       <item itemvalue="Application.GolfTest" />
       <item itemvalue="Application.DemoChatBot" />
+      <item itemvalue="Application.DemoWijnen" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoWijnen" />
         <item itemvalue="Application.DemoChatBot" />
         <item itemvalue="Application.GolfTest" />
         <item itemvalue="Application.Galgje2" />
         <item itemvalue="Application.Galgje1" />
-        <item itemvalue="Application.Galgje3" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +169,8 @@
       <workItem from="1571315420248" duration="4978000" />
       <workItem from="1571686859737" duration="110000" />
       <workItem from="1571931657397" duration="8320000" />
+      <workItem from="1572612703855" duration="592000" />
+      <workItem from="1574412896981" duration="5442000" />
     </task>
     <task id="LOCAL-00001" summary="*help">
       <created>1569504099302</created>

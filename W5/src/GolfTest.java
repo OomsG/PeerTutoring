@@ -21,7 +21,7 @@ public class GolfTest {
          */
 
         //Deel 2
-        GolvenGrafiek graf = new GolvenGrafiek(3);
+        GolvenGrafiek graf = new GolvenGrafiek(10);
         graf.TekenGolven();
     }
 }

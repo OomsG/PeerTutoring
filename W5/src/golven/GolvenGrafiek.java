@@ -24,13 +24,15 @@ public class GolvenGrafiek {
     public void TekenGolven() {
         double min = 0;
         double max = 4;
-        GrafiekWindow window = new GrafiekWindow(10, 6);
+        double breedte = 15;
+        double hoogte = 6;
+        GrafiekWindow window = new GrafiekWindow(breedte,hoogte);
         Golf golf = new Golf();
         for (int i = 0; i < aantal; i++) {
             golf.setFrequentie(min + (max - min) * random.nextDouble());
             golf.setAmplitude(min + (max - min) * random.nextDouble());
             int r = random.nextInt(kleuren.length);
-            for (double j = -5; j < 5; j += 0.001) {
+            for (double j = breedte/2*-1; j < breedte/2; j += 0.001) {
                 window.tekenPunt(j, golf.getYwaarde(j), kleuren[r]);
             }
         }
